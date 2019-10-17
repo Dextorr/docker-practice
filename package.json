@@ -1,0 +1,10 @@
+{
+  "name": "docker-practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Dexter De Leon <dexter@aimusic.co.uk>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
